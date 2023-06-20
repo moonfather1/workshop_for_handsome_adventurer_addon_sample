@@ -3,6 +3,6 @@
     "textures": {
         "particle": "minecraft:block/warped_planks",
         "oak_planks": "minecraft:block/warped_planks",
-        "stripped_oak_log": "minecraft:block/stripped_warped_log"
+        "stripped_oak_log": "minecraft:block/stripped_warped_stem"
     }
 }

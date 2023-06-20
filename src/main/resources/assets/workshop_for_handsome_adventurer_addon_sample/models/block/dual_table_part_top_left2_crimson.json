@@ -1,7 +1,7 @@
 {
     "parent": "workshop_for_handsome_adventurer:block/dual_table_part_top_left2",
     "textures": {
-        "particle": "minecraft:block/stripped_crimson_log",
+        "particle": "minecraft:block/stripped_crimson_stem",
         "oak_planks": "minecraft:block/crimson_planks"
     }
 }

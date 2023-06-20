@@ -4,6 +4,6 @@
         "particle": "minecraft:block/warped_planks",
         "plank": "minecraft:block/warped_planks",
         "thingy": "minecraft:block/white_terracotta",
-        "stripped_log": "minecraft:block/stripped_warped_log"
+        "stripped_log": "minecraft:block/stripped_warped_stem"
     }
 }

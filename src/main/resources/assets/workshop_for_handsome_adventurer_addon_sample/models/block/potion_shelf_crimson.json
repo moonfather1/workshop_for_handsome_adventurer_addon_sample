@@ -2,6 +2,6 @@
     "parent": "workshop_for_handsome_adventurer:block/potion_shelf",
     "textures": {
         "particle": "minecraft:block/crimson_planks",
-        "stripped_log": "minecraft:block/stripped_crimson_log"
+        "stripped_log": "minecraft:block/stripped_crimson_stem"
     }
 }

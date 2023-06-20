@@ -3,7 +3,7 @@
     "textures": 
 	{
         "plank": "minecraft:block/crimson_planks",
-        "stripped_log": "minecraft:block/stripped_crimson_log",
+        "stripped_log": "minecraft:block/stripped_crimson_stem",
         "thingy": "minecraft:block/white_terracotta"
     }
 }

@@ -4,6 +4,6 @@
         "particle": "minecraft:block/crimson_planks",
         "plank": "minecraft:block/crimson_planks",
         "thingy": "minecraft:block/white_terracotta",
-        "stripped_log": "minecraft:block/stripped_crimson_log"
+        "stripped_log": "minecraft:block/stripped_crimson_stem"
     }
 }
