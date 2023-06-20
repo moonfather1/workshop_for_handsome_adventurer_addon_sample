@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+		"workshop_for_handsome_adventurer_addon_sample:simple_table_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_bottom_left_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_bottom_right_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_top_left_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_top_right_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_single_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_double_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_pframed_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_framed_acacia",
+		"workshop_for_handsome_adventurer_addon_sample:potion_shelf_acacia",
+
+		"workshop_for_handsome_adventurer_addon_sample:simple_table_warped",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_bottom_left_warped",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_bottom_right_warped",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_top_left_warped",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_top_right_warped",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_single_warped",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_double_warped",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_pframed_warped",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_framed_warped",
+		"workshop_for_handsome_adventurer_addon_sample:potion_shelf_warped",
+
+		"workshop_for_handsome_adventurer_addon_sample:simple_table_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_bottom_left_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_bottom_right_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_top_left_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:dual_table_top_right_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_single_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_double_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_pframed_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:tool_rack_framed_crimson",
+		"workshop_for_handsome_adventurer_addon_sample:potion_shelf_crimson"
+  ]
+}

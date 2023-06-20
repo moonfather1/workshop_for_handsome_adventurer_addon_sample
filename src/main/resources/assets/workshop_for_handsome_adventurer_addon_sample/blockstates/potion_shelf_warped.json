@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "facing=north": { "model": "workshop_for_handsome_adventurer_addon_sample:block/potion_shelf_warped" },
+        "facing=east": { "model": "workshop_for_handsome_adventurer_addon_sample:block/potion_shelf_warped", "y": 90 },
+        "facing=south": { "model": "workshop_for_handsome_adventurer_addon_sample:block/potion_shelf_warped", "y": 180 },
+        "facing=west": { "model": "workshop_for_handsome_adventurer_addon_sample:block/potion_shelf_warped", "y": 270 }
+    }
+}

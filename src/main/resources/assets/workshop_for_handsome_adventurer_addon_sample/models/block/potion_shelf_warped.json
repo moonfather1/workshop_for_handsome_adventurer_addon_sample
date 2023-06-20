@@ -1,0 +1,7 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/potion_shelf",
+    "textures": {
+        "particle": "minecraft:block/warped_planks",
+        "stripped_log": "minecraft:block/stripped_warped_log"
+    }
+}

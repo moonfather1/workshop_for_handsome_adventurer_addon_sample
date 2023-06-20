@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "tt",
+    "ll"
+  ],
+  "key": {
+    "t": {
+      "tag": "forge:workbench"
+    },
+    "l": {
+      "item": "minecraft:stripped_crimson_log"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_sample:workstation_placer_crimson",
+    "count": 1
+  },
+  "conditions":  []
+}

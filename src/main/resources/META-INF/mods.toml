@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="workshop_for_handsome_adventurer_addon_sample"
+version="${file.jarVersion}" #mandatory
+ displayName="Workshop for handsome adventurer - sample addon"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+authors="MoonFather"
+description='''
+This addon adds acacia, warped and crimson wood for Workshop for handsome adventurer mod.
+'''
+[[dependencies.workshop_for_handsome_adventurer_addon_sample]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[40,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.workshop_for_handsome_adventurer_addon_sample]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.workshop_for_handsome_adventurer_addon_sample]]
+    modId="workshop_for_handsome_adventurer"
+    mandatory=true
+    versionRange="[1.00,)"
+    ordering="AFTER"
+    side="BOTH"

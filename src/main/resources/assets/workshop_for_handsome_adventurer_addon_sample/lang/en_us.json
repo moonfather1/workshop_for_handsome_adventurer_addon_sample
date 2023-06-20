@@ -1,0 +1,28 @@
+{
+	"item.workshop_for_handsome_adventurer_addon_sample.workstation_placer_acacia": "Workstation (acacia)",
+
+	"block.workshop_for_handsome_adventurer_addon_sample.simple_table_acacia": "Crafting Table (acacia)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_double_acacia": "Tool Rack (acacia, triple)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_framed_acacia": "Tool Rack (acacia, framed)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_pframed_acacia": "Tool Rack (acacia, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_single_acacia": "Tool Rack (acacia, single)",
+	"block.workshop_for_handsome_adventurer_addon_sample.potion_shelf_acacia": "Potion Shelf (acacia)",
+	
+	"item.workshop_for_handsome_adventurer_addon_sample.workstation_placer_warped": "Workstation (warped)",
+
+	"block.workshop_for_handsome_adventurer_addon_sample.simple_table_warped": "Crafting Table (warped)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_double_warped": "Tool Rack (warped, triple)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_framed_warped": "Tool Rack (warped, framed)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_pframed_warped": "Tool Rack (warped, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_single_warped": "Tool Rack (warped, single)",
+	"block.workshop_for_handsome_adventurer_addon_sample.potion_shelf_warped": "Potion Shelf (warped)",
+
+	"item.workshop_for_handsome_adventurer_addon_sample.workstation_placer_crimson": "Workstation (crimson)",
+
+	"block.workshop_for_handsome_adventurer_addon_sample.simple_table_crimson": "Crafting Table (crimson)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_double_crimson": "Tool Rack (crimson, triple)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_framed_crimson": "Tool Rack (crimson, framed)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_pframed_crimson": "Tool Rack (crimson, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_sample.tool_rack_single_crimson": "Tool Rack (crimson, single)",
+	"block.workshop_for_handsome_adventurer_addon_sample.potion_shelf_crimson": "Potion Shelf (crimson)"
+}

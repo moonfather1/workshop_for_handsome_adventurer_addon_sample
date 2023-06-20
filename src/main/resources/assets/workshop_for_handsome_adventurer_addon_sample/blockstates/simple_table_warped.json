@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "has_inventory=true": { "model": "workshop_for_handsome_adventurer_addon_sample:block/simple_table_with_drawer_warped" },
+        "has_inventory=false": { "model": "workshop_for_handsome_adventurer_addon_sample:block/simple_table_warped" }
+    }
+}

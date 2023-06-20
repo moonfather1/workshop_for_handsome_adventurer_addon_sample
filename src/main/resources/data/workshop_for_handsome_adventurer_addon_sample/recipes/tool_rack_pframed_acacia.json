@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "f"
+  ],
+  "key": {
+    "f": {
+      "item": "workshop_for_handsome_adventurer_addon_sample:tool_rack_framed_acacia"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_sample:tool_rack_pframed_acacia",
+    "count": 1
+  },
+  "conditions":  []
+}

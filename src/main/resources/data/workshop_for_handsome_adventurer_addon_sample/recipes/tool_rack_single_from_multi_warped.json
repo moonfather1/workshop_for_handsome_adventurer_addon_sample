@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "m"
+  ],
+  "key": {
+    "m": {
+      "item": "workshop_for_handsome_adventurer_addon_sample:tool_rack_double_warped"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_sample:tool_rack_single_warped",
+    "count": 3
+  },
+  "conditions":  []
+}
